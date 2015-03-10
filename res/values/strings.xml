@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Jokes Sender</string>
+    <string name="send_lbl_phone">Phone Number</string>
+    <string name="send_lbl_phone_l">Number</string>
+    <string name="send_btn_send">Send Joke</string>
+    <string name="schedule_btn">Schedule</string>
+    <string name="land_loading_txt">Pendind Cetegory Selection</string>
+    
+    <string name="sales">Download our other Apps</string>
+
+    <!-- DataBase -->
+
+    <string-array name="categories">
+        <item>Stupid</item>
+        <item>School</item>
+        <item>Animal</item>
+        <item>Blonde</item>
+        <item>Clean</item>
+        <item>Family</item>
+        <item>Food</item>
+        <item>Collage</item>
+        <item>ShortSMS</item>
+        <item>Friends</item>
+        
+    </string-array>
+    <string-array name="Stupid">
+        <item> Why did the man put his money in the freezer?
+
+A. He wanted cold hard cash</item>
+        <item> What did the porcupine say to the cactus?
+
+A. "Is that you mommy" ?</item>
+        <item> What do you get when you cross a snowman with a vampire?
+
+A. Frostbite        </item>
+        <item> How do crazy people go through the forest?
+
+A. They take the psycho path</item>
+        <item> What do prisoners use to call each other?
+
+A. Cell phones</item>
+        <item> What do you get from a pampered cow?
+
+A. Spoiled milk</item>
+        <item> Where do polar bears vote?
+
+A. The North Poll </item>
+        <item> What did Geronimo say when he jumped out of the airplane?
+
+A. ME</item>
+        <item> Where do snowmen keep their money?
+
+A. In snow banks</item>
+        <item> What\'s brown and sticky?
+
+A. A stick</item>
+        <item> Why do sea-gulls fly over the sea?
+
+A. Because if they flew over the bay they would be bagels</item>
+        <item> What dog keeps the best time?
+
+A. A watch dog</item>
+        <item> Why did the tomato turn red?
+
+A. It saw the salad dressing</item>
+        <item> What did the grape do when it got stepped on?
+
+A. It let out a little wine</item>
+        <item> How do you make a tissue dance?
+
+A. Put a little boogey in it</item>
+        <item> Where do bees go to the bathroom?
+
+A. At the BP station</item>
+        <item> What did the judge say when the skunk walked in the court room?
+
+A. Odor in the court</item>
+        <item> What did the water say to the boat?
+
+A. Nothing, it just waved</item>
+        <item> What did the fish say when he swam into the wall?
+
+A. Dam</item>
+        <item> Why don\'t skeletons fight each other?
+
+A. They don\'t have the guts</item>
+        <item> What has four legs but can\'t walk?
+
+A. A table</item>
+        <item> Why did the turtle cross the road?
+
+A. To get to the Shell station</item>
+        <item> What did the ground say to the earthquake?
+
+A. You crack me up</item>
+        <item> What do you get when you cross a cow and a duck?
+
+A. Milk and quackers</item>
+        <item> Why did the elephant eat the candle?
+
+A. He wanted a light snack</item>
+        <item> Why is the letter "G" scary?
+
+A. It turns a host into a ghost</item>
+        <item> What has  4 eyes but no face?
+
+A. Mississippi</item>
+        <item> What did the spider do on the computer?
+
+A. Made a website</item>
+        <item> What letters are not in the alphabet?
+
+A. The ones in the mail, of course</item>
+        <item> Why was 6 afraid of 7?
+
+A. Because 789</item>
+        <item> Why did the cookie go to the hospital?
+
+A. Because it felt crummy</item>
+        <item> How do you know carrots are good for your  eyes?
+
+A. Because you never see rabbits wearing glasses</item>
+        <item> What do you call a pony with a sore throat?
+
+A. A little horse</item>
+        <item> What do you call cheese that is not yours?
+
+A. Nacho Cheese</item>
+        <item> Why did the sheep say "moo"?
+
+A. It was learning a new language</item>
+        <item> What streets do ghosts haunt?
+
+A. Dead ends</item>
+        <item> What is an astronaut\'s favorite place on a computer?
+
+A. The Space bar</item>
+        <item> What exam do young witches have to pass?
+
+A. A spell-ing test</item>
+        <item> Why did the boy eat his homework?
+
+A. Because his teacher said it was a piece of cake</item>
+        <item> Why is Basketball such a messy sport?
+
+A. Because you dribble on the floor</item>
+        <item> Why did the jelly wobble?
+
+A. Because it saw the milk shake</item>
+        <item> What do you call a girl who is always in the bookies?
+
+A. Betty</item>
+        <item> Where do cows go on holiday?
+
+A. Moo York</item>
+        <item> Where did the computer go to dance?
+
+A. To a disc-o</item>
+        <item> What do you call a man who rolls in the leaves?
+
+A. Russel</item>
+        <item> What has one head, one foot and four legs?
+
+A. A Bed</item>
+        <item> What are two things you cannot have for breakfast?
+
+A. Lunch and dinner</item>
+        <item> Why did the boy sprinkle sugar on his pillow before he went to sleep?
+
+A. So he could have sweet dreams</item>
+        <item> Why did the robber take a bath?
+
+A. Because he wanted to make a clean getaway</item>
+        <item> What did the judge say to the dentist?
+
+A. Do you swear to pull the tooth, the whole tooth and nothing but the tooth</item>
+        <item> What do you call a bear with no socks on?
+
+A. Bare-foot</item>
+        <item> What can you serve but never eat?
+
+A. A volleyball</item>
+        <item> What did one teddy bear say to the other teddy bear when he offered him some dessert?
+
+A. No thank you, I am stuffed</item>
+        <item> What kind of shoes do all spies wear?
+
+A. Sneakers</item>
+        <item> What did one wall say to the other wall?
+
+A. I\'ll meet you at the corner</item>
+        <item> Why did the soccer player bring string to the game?
+
+A. So he could tie the score</item>
+        <item> Why is a baseball team similar to a muffin?
+
+A. They both depend on the batter</item>
+        <item> What did the alien say to the garden?
+
+A. Take me to your weeder</item>
+        <item> Have you heard the joke about the butter?
+
+A. I better not tell you, it might spread</item>
+        <item> How do baseball players stay cool?
+
+A. Sit next to their fans</item>
+        <item> What gets wetter the more it dries?
+
+A. A towel</item>
+        <item> Why was the math book sad?
+
+A. Because it had too many problems</item>
+        <item> What runs but doesn\'t get anywhere?
+
+A. A refrigerator</item>
+        <item> How do you catch a squirrel?
+
+A. Climb a tree and act like a nut</item>
+        <item> What do you do with a blue whale?
+
+A. Try to cheer him up</item>
+        <item> How do you communicate with a fish?
+
+A. Drop him a line</item>
+        <item> Where do sheep go to get haircuts?
+
+A. To the Baa Baa shop</item>
+        <item> What does a shark eat with peanut butter?
+
+A. Jellyfish</item>
+        <item> Why was the pelican kicked out of the hotel?
+
+A. Because he had a big bill</item>
+        <item> What do cats eat for breakfast?
+
+A. Mice Crispies</item>
+        <item> What kind of dog tells time?
+
+A. A watch dog</item>
+        <item> Why can\'t a leopard hide?
+
+A. Because he\'s always spotte</item>
+        <item> What do you give a dog with a fever?
+
+A. Mustard, its the best thing for a hot dog</item>
+        <item> What do you get when you cross a cat with a lemon?
+
+A. A sour puss</item>
+        <item> Why do birds fly south for the winter?
+
+A. Its easier than walking</item>
+        <item> What kind of key opens a banana?
+
+A. A monkey</item>
+        <item> How do you know that carrots are good for your eyesight?
+
+A. Have you ever seen a rabbit wearing glasses?</item>
+        <item> Why does a hummingbird hum?
+
+A. It doesn\'t know the words</item>
+        <item> Why are some fish at the bottom of the ocean?
+
+A. Because they dropped out of school</item>
+        <item> What goes up and down but doesn\'t move?
+
+A. The temperature</item>
+        <item> What two days of the week start with the letter "T"?
+
+A. Today and Tomorrow</item>
+        <item> Which weighs more, a ton of feathers or a ton of bricks?
+
+A. Neither, they both weigh a ton</item>
+        <item> What has four eyes but can\'t see?
+
+A. Mississippi</item>
+        <item> Where does wood come from?
+
+A. A guy named woody.</item>
+        <item> What has one horn and gives milk
+
+A. A milk truck.</item>
+        <item> Where do bulls get their messages
+
+A. On a bull-etin board.</item>
+        <item> What do bulls do when they go shopping?
+
+A. They CHARGE</item>
+        <item> Why were the giant\'s fingers only eleven inches long?
+
+A. Because if they were twelve inches long, they\'d be a foot.</item>
+        <item> What is invisible and smells like carrots?
+
+A. Bunny Farts</item>
+        <item> What runs but can\'t walk?
+
+A. The faucet</item>
+        <item> What kind of bed does a mermaid sleep in?
+
+A. A water bed</item>
+        <item> What kind of crackers do firemen like in their soup?
+
+A. Firecrackers</item>
+        <item> What did the teddy bear say when he was offered dessert?
+
+A. No thanks, I\'m stuffed</item>
+        <item> Why did the barber win the race?
+
+A. Because he took a short cut.</item>
+        <item> What\'s taken before you get it?
+
+A. Your picture.</item>
+        <item> Why did the tree go to the dentist?
+
+A. To get a root canal.</item>
+        <item> Why did the child study in the airplane?
+
+A. He wanted a higher education</item>
+        <item> Why was the broom late?
+
+A. It over swept</item>
+        <item> What did the fireman\'s wife get for Christmas?
+
+A. A ladder in her stocking</item>
+        <item> What did one virus say to another?
+
+A. Stay away, I think I\'ve got penicillin</item>
+        <item> What did the tie say to the hat?
+
+A. You go on ahead and I\'ll hang around</item>
+        <item> What pet makes the loudest noise?
+
+A. A trum-pet</item>
+        <item> What is a tornado?
+
+A. Mother nature doing the twist</item>
+        <item> Why did the boy tiptoe past the medicine cabinet?
+
+A. He didn\'t want to wake the sleeping pills</item>
+        <item> How do you tease fruit?
+
+A. Banananananananana</item>
+        <item> Why did Goofy put a clock under his desk?
+
+A. Because he wanted to work over-time</item>
+        <item> Why did Tommy throw the clock out of the window?
+
+A. Because he wanted to see time fly</item>
+        <item> How does a moulded fruit-flavoured dessert answer the phone?
+
+A. Jell-o</item>
+        <item> When do you stop at green and go at red?
+
+A. When you\'re eating a watermelon</item>
+        <item> How did the farmer mend his pants?
+
+A. With cabbage patches</item>
+        <item> Why don\'t they serve chocolate in prison?
+
+A. Because it makes you break out</item>
+        <item> What do you call artificial spaghetti?
+
+A. Mockaroni</item>
+        <item> What happens to a hamburger that misses a lot of school?
+
+A. He has a lot of ketchup time</item>
+        <item> Why did the man at the orange juice factory lose his job?
+
+A. He couldn\'t concentrate</item>
+        <item> How do you repair a broken tomato?
+
+A. Tomato Paste</item>
+        <item> Why did the baby strawberry cry?
+
+A. Because his parents were in a jam</item>
+        <item> What did the hamburger name his daughter?
+
+A. Patty</item>
+        <item> What kind of egg did the bad chicken lay?
+
+A. A deviled egg</item>
+        <item> What kind of key opens the door on Thanksgiving?
+
+A. A turkey</item>
+        <item> What kind of cake do you get at a cafeteria?
+
+A. A stomach-cake</item>
+        <item> Why did the cookie go to the hospital?
+
+A. He felt crummy</item>
+        <item> When does a cart come before a horse?
+
+A. In the dictionary</item>
+        <item> Why were the teacher\'s eyes crossed?
+
+A. She couldn\'t control her pupils</item>
+        <item> What do you get when you put a fish and an elephant together?
+
+A. Swimming trunks.</item>
+        <item> What goes up when the rain comes down?
+
+A. An umbrella.</item>
+        <item> What disappears when you stand up?
+
+A. Your lap.</item>
+        <item> What did the big firecracker say to the little firecracker?
+
+A. My pop is bigger than yours.</item>
+        <item> What did the big chimney say to the small chimney?
+
+A. You are too little to smoke.</item>
+        <item> What do you call a surgeon with eight arms?
+
+A. A doctopus</item>
+        <item> Why did the teacher jump into the lake?
+
+A. Because she wanted to test the waters</item>
+        <item> Why did the belt go to jail?
+
+A. Because it held up a pair of pants</item>
+        <item> What is the center of gravity?
+
+A. The letter V</item>
+        <item> What did the stamp say to the envelope?
+
+A. Stick with me and we will go places</item>
+        <item> What sort of star is dangerous?
+
+A. A shooting star</item>
+        <item> Why did the teacher write the lesson on the windows? 
+
+A. He wanted the lesson to be very clear</item>
+        <item> What kind of lights did Noah use on the Ark?
+
+A. Flood lights</item>
+        <item> What do computers do when they get hungry?
+
+A. They eat chips</item>
+        <item> Why don\'t you see giraffes in elementary school?
+
+A. Because they\'re all in High School</item>
+        <item> Which is the longest word in the dictionary?
+
+A. "Smiles", because there is a mile between each "s"</item>
+        <item> Which month do soldiers hate most?
+
+A. The month of March</item>
+        <item> What did the painter say to the wall?
+
+A. One more crack like that and I\'ll plaster you</item>
+        <item> Why do golfers wear two pairs of pants?
+
+A. In case they get a hole in one</item>
+        <item> What did the the tie say to the hat?
+
+A. You go on a head, I\'ll just hang around</item>
+        <item> What would you call two banana skins?
+
+A. A pair of slippers</item>
+    </string-array>
+    <string-array name="School">
+        <item>    Q: What does a nosey pepper do? A: Gets jalapeno business! </item>
+        <item>     Q: What do you call a fake noodle? A: An Impasta  </item>
+        <item>      What do you call an alligator in a vest? A: An Investigator </item>
+        <item>     What happens if you eat yeast and shoe polish?A: Every morning you\'ll rise and shine!  </item>
+        <item>    Q: "What\'s the difference between a guitar and a fish?"A: "You can\'t tuna fish.   </item>
+        <item>    Did you hear about the race between the lettuce and the tomato? A: The lettuce was a "head" and the tomato was trying to "ketchup"   </item>
+        <item>    Q: What do you get from a pampered cow?A: Spoiled milk   </item>
+        <item>    Q: What do lawyers wear to court?A: Lawsuits!   </item>
+        <item>  Q: What gets wetter the more it dries?A: A towel     </item>
+        <item>    Q: What did the pencile say to the other pencil?A: your looking sharp   </item>
+        <item>   Q: What did Bacon say to Tomato? A: Lettuce get together    </item>
+        <item>   Q: What is the most hardworking part of the eye?A: the pupil    </item>
+        <item>   Q: How do you make a tissue dance?A: Put a little boogey in it!    </item>
+        <item>    Q: What do you call security guards working outside Samsung shops?A: Guardians of the Galaxy.   </item>
+        <item>   Q: What do you get when you cross fish and an elephant?A: Swimming trunks.    </item>
+        <item>     Q: Where do bees go to the bathroom?A: At the BP station!  </item>
+        <item>  Q: What do you call a baby monkey?A: A Chimp off the old block.     </item>
+        <item>     Q: Who earns a living driving their customers away? A: A taxi driver  </item>
+        <item>   Q: "How do you shoot a killer bee?"A: "With a bee bee gun."    </item>
+        <item>    Q: How do you drown a Hipster?A: In the mainstream   </item>
+        <item>    Q: How do you make holy water? A: Boil the hell out of it!   </item>
+        <item>   Q: What happened to the dog that swallowed a firefly? A: It barked with de-light!    </item>
+        <item>     Q: What stays in the corner and travels all over the world? A: A stamp  </item>
+        <item>  Q:  What did the leopard say after eating his owner? A:  Man, that hit the "spot."     </item>
+        <item>    Q: Why did the banana go to the Doctor?A: Because it was not peeling well   </item>
+        <item>    Q:  Why is England the wettest country? A:  Because the queen has reigned there for years!   </item>
+        <item>   Q:  Why do fish live in salt water? A:  Because pepper makes them sneeze!    </item>
+        <item>  Q: Why did the man put his money in the freezer?A: He wanted cold hard cash!     </item>
+        <item>    Q: What do you get when you cross a snowman with a vampire?A: Frostbite   </item>
+        <item>    Q: What is the best day to go to the beach?A: Sunday, of course!   </item>
+        <item>    Q: Where did the computer go to dance?A: To a disc-o   </item>
+        <item>    Q: What is the difference between a school teacher and a train?A: The teacher says spit your gum out and the train says "chew chew chew"   </item>
+        <item>      Q: What sound do porcupines make when they kiss? A: Ouch </item>
+        <item>   Q: Why was the guy looking for fast food on his friend?A: Because his friend said dinner is on me.    </item>
+        <item> : Did you hear the joke about the roof?A: Never mind, it\'s over your head      </item>
+        <item>  Q: How do crazy people go through the forest?A: They take the psycho path     </item>
+    </string-array>
+    <string-array name="Animal">
+        <item>What happens to a frog\'s car when it breaks down?
+It gets toad away</item>
+        <item>Q: What did the duck say when he bought lipstick?
+A: Put it on my bill." </item>
+        <item> What did the elephant say to the naked man? A. How do you breathe through something so small?" </item>
+        <item>You are on a horse, galloping at a constant speed. On your right side is a sharp drop off, and on your left side is an elephant traveling at the same speed as you. Directly in front of you is another galloping horse but your horse is unable to overtake it. Behind you is a lion running at the same speed as you and the horse in front of you. What must you do to safely get out of this highly dangerous situation? Get your drunk ass off the merry-go-round</item>
+        <item>Q: What do you call a pig that does karate? 
+A: A pork chop</item>
+        <item>Two tall trees, a birch and a beech, are growing in the woods. A small tree begins to grow between them, and the beech says to the birch, Is that a son of a beech or a son of a birch?" The birch says he cannot tell, but just then a woodpecker lands on the sapling</item>
+        <item>The birch says,Woodpecker, you are a tree expert. Can you tell if that is a son of a beech or a son of a birch?"</item>
+        <item>The woodpecker takes a taste of the small tree and replies, It is neither a son of a beech nor a son of a birch, It is, however, the best piece of ash I have ever poked my pecker into."
+
+Now wipe that smile off your face. </item>
+        <item>How did the blonde try to kill the bird?? She threw it off a cliff</item>
+        <item>Why can\'t Miss Piggy count to 100? Because when she gets to 69 she has a frog in her throat</item>
+        <item>What did the dog say to the hot dog bun? Are you pure bred?"</item>
+        <item>Q: Why do bunnies have soft sex? 
+A: They have cotton balls</item>
+        <item>Did you know that dolphins are so smart that within a few weeks of captivity, they can train people to stand on the edge of their pool and throw them fish?"</item>
+    </string-array>
+    <string-array name="Blonde">
+        <item>A blonde, a redhead, and a brunette were all lost in the desert. They found a lamp and rubbed it. A genie popped out and granted them each one wish. The redhead wished to be back home. Poof She was back home. The brunette wished to be at home with her family. Poof She was back home with her family. The blonde said,Awwww, I wish my friends were here." </item>
+        <item>Blonde: What does IDK stand for?"
+Brunette: I don’t know."
+Blonde: OMG, nobody does </item>
+        <item>Two blondes fell down a hole. One said,It\'s dark in here isn\'t it?" The other replied, I don\'t know; I can\'t see."</item>
+        <item>Q: Why can\'t a blonde dial 911?
+A: She can\'t find the eleven</item>
+        <item>There was a blonde, a redhead, and a brunette. They were all trapped on an island and the nearest shore was 50 miles away. The redhead swam trying to make it to the other shore she swam 15 miles, drowned, and died. The brunette swam 24 miles, drowned, and died. The blonde swam 25 miles, got tired, and swam back</item>
+        <item>A robber comes into the store and steals a TV. A blonde runs after him and says, Wait, you forgot the remote</item>
+        <item>There was a blonde who just got sick and tired of all the blonde jokes. One evening, she went home and memorized all the state capitals. Back in the office the next day, some guy started telling a dumb blonde joke. She interrupted him with a shrill announcement, I\'ve had it up to here with these blonde jokes. I want you to know that this blonde went home last night and did something probably none of you could do. I memorized all the state capitals." One of the guys, of course, said, I don\'t believe you. What is the capital of Nevada?" N," she answered</item>
+        <item>There are 11 people hanging onto a rope that comes down from an airplane. 10 of them are blonde, and one is a brunette. They all decide that one person should get off because if they don\'t, the rope will break and everyone will die. No one can decide who should go, so finally the brunette delivers a very touching speech, ending with the words, I\'ll get off." The blondes, all moved by the brunette\'s speech, start clapping. Problem solved</item>
+        <item>A guy was driving in a car with a blonde. He told her to stick her head out the window and see if the blinker worked. She stuck her head out and said,Yes, No, Yes, No, Yes..""</item>
+        <item>A blonde goes into a nearby store and asks a clerk if she can buy the TV in the corner. The clerk looks at her and says that he doesn\'t serve blondes, so she goes back home and dyes her hair black. The next day she returns to the store and asks the same thing, and again, the clerk said he doesn\'t serve blondes. Frustrated, the blonde goes home and dyes her hair yet again, to a shade of red. Sure that a clerk would sell her the TV this time, she returns and asks a different clerk this time. To her astonishment, this clerk also says that she doesn\'t serve blondes. The blonde asks the clerk, How in the world do you know I am a blonde?" The clerk looks at her disgustedly and says,"That\'s not a TV, it\'s a microwave</item>
+        <item>What did the blonde say when she saw the Cheerios box? Omg, donut seeds</item>
+        <item>A blind guy on a bar stool shouts to the bartender, Wanna hear a blonde joke?" In a hushed voice, the guy next to him says, “Before you tell that joke, you should know something. Our bartender is blonde, the bouncer is blonde. I’m a six foot tall, 200 lb black belt. The guy sitting next to me is six foot two, weighs 225, and he’s a rugby player. The fella to your right is six foot five, pushing 300, and he’s a wrestler. Each one of us is blonde. Think about it, Mister. Do you still wanna tell that joke?" The blind guy says, “Nah, not if I’m gonna have to explain it five times." </item>
+        <item>Why did the blonde tip toe near the medicine cabinet? Because she didn\'t want to wake the sleeping pills</item>
+    </string-array>
+    <string-array name="Clean">
+        <item>Q: What did the duck say when he bought lipstick?
+A: Put it on my bill."</item>
+        <item>Q: What did the duck say when he bought lipstick?
+A: Put it on my bill."</item>
+        <item>Q: Why was six scared of seven? 
+A: Because seven ate nine.</item>
+        <item>Q: Why couldn\'t the blonde add 10 + 5 on a calculator? 
+A: She couldn\'t find the 10 button</item>
+        <item>In a Catholic school cafeteria, a nun places a note in front of a pile of apples, Only take one. God is watching." Further down the line is a pile of cookies. A little boy makes his own note, Take all you want. God is watching the apples."</item>
+        <item> What is the best day to go to the beach?
+
+A. Sunday, of course</item>
+        <item> What bow can\'t be tied?
+
+A. A rainbow</item>
+        <item> What happens if you eat yeast and shoe polish?
+
+A. Every morning you\'ll rise and shine</item>
+        <item> What does a teddy bear put in his house?
+
+A. Fur-niture</item>
+        <item>What season is it when you are on a trampoline?
+
+A.Spring time</item>
+        <item> What happens to cows during an earthquake?
+
+A. They give milk shakes</item>
+    </string-array>
+    <string-array name="Family">
+        <item>Wife: I look fat. Can you give me a compliment?" 
+Husband: You have perfect eyesight."</item>
+        <item>A man kills a deer and takes it home to cook for dinner. Both he and his wife decide that they won\'t tell the kids what kind of meat it is, but will give them a clue and let them guess. The dad said, Well it\'s what Mommy calls me sometimes." The little girl screamed to her brother, Don\'t eat it. Its an asshole </item>
+        <item>A woman gets on a bus with her baby. The bus driver says, That\'s the ugliest baby that I\'ve ever seen. Ugh" The woman goes to the rear of the bus and sits down, fuming. She says to a man next to her, The driver just insulted me" The man says, You go right up there and tell him off – go ahead, I\'ll hold your monkey for you."</item>
+        <item>An elderly couple are in church. The wife leans over and whispers to her husband, I just let out a long, silent fart. What should I do?" The husband replies, First off, replace the batteries in your hearing aid</item>
+        <item>After picking her son up from school one day, the mother asks him what he did at school. The kid replies,I had sex with my teacher." She gets so mad that when they get home, she orders him to go straight to his room. When the father returns home that evening, the mother angrily tells him the news of what their son had done. As the father hears the news, a huge grin spreads across his face. He walks to his son\'s room and asks him what happened at school, the son tells him,I had sex with my teacher." The father tells the boy that he is so proud of him, and he is going to reward him with the bike he has been asking for. On the way to the store, the dad asks his son if he would like to ride his new bike home. His son responds, No thanks Dad, my butt still hurts."</item>
+        <item>Little Sally came home from school with a smile on her face, and told her mother, Frankie Brown showed me his weenie today at the playground Before the mother could raise a concern, Sally went on to say, It reminded me of a peanut." Relaxing with a hidden smile, Sally\'s mom asked, Really small, was it?" Sally replied, No, salty." Mom fainted</item>
+        <item>A man buys a lie detector robot that slaps people who lie. He decides to test it at dinner. He asks his son, Son, where were you today during school hours?" At school." The robot slaps the son. Okay, I went to the movies" The father asks, Which one?" Harry Potter." The robot slaps the son again. >Okay, I was watching porn" The father replies, What? When I was your age I didn\'t even know what porn was" The robot slaps the father. The mom chimes in, Haha After all, he is your son The robot slaps the mother</item>
+        <item>Very pleased, the boy is on his way to school the next day when he sees the mailman at his front door. The boy greets him by saying, I know the whole truth." The mailman immediately drops the mail, opens his arms, and says, Then come give your Daddy a great big hug</item>
+        <item>Q: How do you make a tissue dance? 
+A: Put a little boogie in it</item>
+    </string-array>
+    <string-array name="Food">
+        <item>A family is at the dinner table. The son asks the father, “Dad, how many kinds of boobs are there?” The father, surprised, answers, “Well, son, a woman goes through three phases. In her 20s, a woman’s breasts are like melons, round and firm. In her 30s and 40s, they are like pears, still nice, hanging a bit. After 50, they are like onions.” “Onions?” the son asks. “Yes. You see them and they make you cry.” This infuriated his wife and daughter. The daughter asks, “Mom, how many different kinds of willies are there?” The mother smiles and says, “Well, dear, a man goes through three phases also. In his 20s, his willy is like an oak tree, mighty and hard. In his 30s and 40s, it’s like a birch, flexible but reliable. After his 50s, it’s like a Christmas tree.” “A Christmas tree?” the daughter asks. “Yes, dead from the root up and the balls are just for decoration.”</item>
+        <item>Q: Why do Mexicans eat beans for dinner? 
+A: So they can take bubble baths</item>
+        <item>A man kills a deer and takes it home to cook for dinner. Both he and his wife decide that they won\'t tell the kids what kind of meat it is, but will give them a clue and let them guess. The dad said, Well it\'s what Mommy calls me sometimes." The little girl screamed to her brother, Don\'t eat it. Its an asshole</item>
+        <item>A lady goes to the doctor and complains that her husband is losing interest in sex. The doctor gives her a pill, but warns her that it\'s still experimental. He tells her to slip it into his mashed potatoes at dinner, so that night, she does just that. About a week later, she’s back at the doctor, where she says, Doc, the pill worked great I put it in the potatoes like you said It wasn\'t five minutes later that he jumped up, raked all the food and dishes onto the floor, grabbed me, ripped all my clothes off, and ravaged me right there on the table" The doctor says, I’m sorry, we didn’t realize the pill was that strong The foundation will be glad to pay for any damages." Nah," she says, that\'s okay. We\'re never going back to that restaurant anyway." </item>
+        <item>Your Halloween costume came in the mail today. I opened it. It was a rooster mask and a bag of lollipops. Going as a c*ck sucker again?</item>
+        <item>Scientists have discovered a food that diminishes a woman\'s sex drive by 90%. It\'s called a wedding cake</item>
+        <item>Q: What kind of candy do Indians give out on Halloween? 
+A: Dots." </item>
+        <item>Q: What do a Christmas tree and a priest have in common? 
+A: Their balls are just for decoration</item>
+        <item>It was Christmas Eve. A woman came home to her husband after a day of busy shopping. Later on that night when she was getting undressed for bed, he noticed a mark on the inside of her leg. What is that?" he asked. She said, I visited the tattoo parlor today. On the inside of one leg I had them tattoo \'Merry Christmas,\' and on the inside of the other one they tattooed \'Happy New Year.\'" Perplexed, he asked, Why did you do that?" well," she replied, now you can\'t complain that there\'s never anything to eat between Christmas and New Years</item>
+        <item>A little kids sends a letter to Santa that says: Dear Santa I want a brother for Christmas." Santa writes back, Dear Timmy send me me your mommy."</item>
+        <item>Q: Why did the witches\' team lose the baseball game?
+A: Their bats flew away</item>
+        <item> ""What do you do when 50 zombies surround your house? Hope it\'s Halloween</item>
+        <item>Q: Why are ghosts bad liars? 
+A: You can see right through them</item>
+        <item>Q: Why did the skeleton cross the road? 
+A: To get to the body shop</item>
+        <item>Q: Why is Santa Claus\' sack so big? A: He only comes once a year</item>
+        <item>Whats the difference between a girls snowman and a boy snowman?
+
+Snowballs</item>
+    </string-array>
+    <string-array name="Collage">
+        <item> Why didn\'t the chicken cross the road?
+
+A. He was a chicken</item>
+        <item> What is the difference between a school teacher and a train?
+
+A. The teacher says spit your gum out and the train says "chew chew chew"</item>
+        <item> Why did the birdie go to the hospital?
+
+A. To get a tweetment</item>
+        <item> What do you call someone who is afraid of Santa?
+
+A. A Clausterphobic</item>
+        <item> Why was the guy looking for the food on his friend?
+
+A. Because his friend said its on me</item>
+        <item> Did you hear the joke about the roof?
+
+A. Never mind, it\'s over your head</item>
+        <item> What do you call a cow eating grass in a paddock?
+
+A. A lawn mooer</item>
+        <item> Why didn\'t the skeleton go to the dance?
+
+A. Because he had no-body to go with</item>
+        <item> What did the penny say to the other penny?
+
+A. We make perfect cents.</item>
+        <item> Why did the man with one hand cross the road?
+
+A. To get to the second hand shop</item>
+        <item> Why did the picture go to jail?
+
+A. Because it was framed</item>
+    </string-array>
+    <string-array name="ShortSMS">
+        <item>Reality is an Illusion caused by Alcohol deficiency. </item>
+        <item> Brains aren\'t everything.
+In fact, in your case, they\'re nothing.</item>
+        <item> You never fail until you stop trying.</item>
+        <item> If nothing lasts forever,
+will you be my nothing?</item>
+        <item> The future belongs to those 
+who believe in the beauty of their dreams. </item>
+        <item> Is that love I see in your eyes,
+Or merely a reflection of mine?</item>
+        <item>Death is not the greatest loss in life,
+The greatest loss is
+What dies in you when you are alive. </item>
+        <item> How do u keep busy an idiot? 
+Press down 
+- 
+Press up
+....
+Press Down </item>
+        <item>Pleas turn your mobile phone upside down now!!! Hurry 370HSSV.... </item>
+        <item>I"ve got the ship, you"ve got the harbor .... </item>
+        <item> There are no personal problems which cannot be solved through....</item>
+        <item>We will now upgrade your brain, please wait....searching....</item>
+        <item> The secret of happiness is not 
+doing what one likes, but 
+liking what one has to do.</item>
+        <item> Inflexibility is the hallmark of the Tiny Mind. </item>
+        <item>Always forgive your enemies;
+nothing else annoys them so much.</item>
+        <item> I am sorry
+How can I begin to say I am sorry.
+I didn\'t mean to upset you.
+I hope that you can forgive me.
+
+I am sorry.  </item>
+        <item>Good FRIENDS are hard to find,
+Good FRIENDS are hard to find,
+harder to leave,
+and impossible to forget. </item>
+        <item> Artificial Intelligence usually beats real stupidity. </item>
+        <item>Algebra: A weapon of math destruction. </item>
+        <item> What is a free gift?
+Aren\'t all gifts free?</item>
+        <item> I bet when you go to the zoo you have to buy two tickets:
+One to get in and another to get out. </item>
+        <item> Be nice to your kids. 
+They\'ll choose your nursing home.</item>
+        <item> I"ve got the ship, you"ve got the harbour ..... </item>
+        <item> Always remember you"re unique, just like everyone else.</item>
+    </string-array>
+    <string-array name="Friends">
+        <item>My friend got a job in paperless office. Everything was going great until he went to toilet due to loose motions! </item>
+        <item>Height of Coolness:
+Finishing the paper
+Coming out of the exam hall
+Having a cold drink
+And asking a friend: Dude, which paper was it? </item>
+        <item> What\'s the difference between men and pigs?
+Pigs don\'t turn into men when they drink!</item>
+        <item> With the launch of iPhone 6, OLX is more excited than Apple....
+as people will sell old phones, car, house etc to buy iPhone.</item>
+        <item> From the last 2 years, Vijay Mallya is scared to put his phone on "Airplane Mode"!</item>
+        <item>I casually made a survey asking people..
+What is on 2nd Oct..
+ONLY 93.7 precent replied "Dry Day".
+This is VERY disturbing....
+.
+
+We have to start educating the remaining 6.3 precent immediately! </item>
+        <item> Think twice before you speak.. you\'d be able to say something more Insulting!</item>
+        <item>Tarot Cards Reader: You wish to know about your future husband?
+Lady: No. I simply wish to know about the past of my present husband for future use! </item>
+        <item>Tarot Cards Reader: You wish to know about your future husband?
+Lady: No. I simply wish to know about the past of my present husband for future use! </item>
+        <item> When you fall down while your iPhone 6 is in your pocket and you hear a crack, your first prayer is: "Lord, please let that be my leg!"</item>
+        <item> I hereby nominate my Ex and Ex\' parents to do the Hot Boiling Water Challenge!</item>
+        <item> I belong to Bridegrooms Anonymous.
+Whenever I feel like getting married, they send over a lady in a housecoat and hair curlers to burn my toast for me!</item>
+        <item>People who live in glass houses should move out and rent the premises to beautiful women! </item>
+        <item> If you steal someone\'s Husband, it is rude;
+But if you steal her Maid or Servant,
+.
+It is Unforgettable, Unforgivable and Unpardonable!</item>
+        <item> Rakhi Special:
+Landlord to Paying Guest: Son, The whole year through, you had so many of your cousins visiting you.. and today on Raksha Bandhan, not even a single one of them turned up!</item>
+        <item> Last Sunday, it was "Friendship Day" and next Sunday, it\'s "Raksha Bandhan".
+Last Sunday, boys were behind girls;
+And next Sunday, girls would be behind boys!</item>
+        <item> A lizard found in Mid-day meal in school in China. 15 children..
+.
+.
+.
+injured while fighting for it!</item>
+        <item>Wifi and Wife -
+.
+.
+.
+Neighbours have an eye on both of them! </item>
+        <item> Every family has one weird relative. If you don\'t know who it is, then it\'s probably you!</item>
+        <item>Alarm Clock:
+A small tabletop device used to wake up people who don\'t have child </item>
+        <item>I cried that I had no shoes, until I saw the man who stole it. Then he cried! </item>
+        <item>I love how people say they\'re "Expecting a Baby.. as though it might be something else - like a Penguin or a Blueray! </item>
+        <item>Height of Courage:
+Senior student during ragging says, "In your marriage I will kiss your Wife.
+Junior : Fine but I will marry your sister.."Now take as many kisses as you wish!" </item>
+        <item> Love affairs are like the game of Cricket;
+Where One-Day Internationals are more popular than a 5 day Test!</item>
+    </string-array>
+
+</resources>

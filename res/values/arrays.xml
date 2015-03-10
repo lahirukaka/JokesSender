@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <string-array name="cat_images">
+        <item>@drawable/stupid</item>
+        <item>@drawable/school</item>
+        <item>@drawable/animal</item>
+        <item>@drawable/blonde</item>
+        <item>@drawable/clean</item>
+        <item>@drawable/family</item>
+        <item>@drawable/food</item>
+        <item>@drawable/collage</item>
+        <item>@drawable/shortsms</item>
+        <item>@drawable/friends</item>
+    </string-array>
+    
+</resources>
